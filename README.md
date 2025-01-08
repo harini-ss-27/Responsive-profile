@@ -3,7 +3,7 @@
 This is my personal portfolio website built using HTML, CSS, and JavaScript. It showcases about myself, skills & projects providing a clean & user-friendly interface.
 
 # Live
-Check it out:
+Check it out: https://harini-ss-27.github.io/Responsive-profile/
 
 # Features
 1. Responsive Design: Fully responsive layout to ensure an optimal experience across desktop, tablet, and mobile devices.
